@@ -2,6 +2,8 @@
 
 `dind3` is a lightweight Python library that automatically imports NumPy,Pandas and Matplotlib as `np`,`pd`and `plt`.
 
+Installing `dind3` automatically installs the other three packages
+
 ## Installation
 ```sh
 pip install dind
