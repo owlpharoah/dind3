@@ -4,11 +4,11 @@
 
 ## Installation
 ```sh
-pip install dind3
+pip install dind
 ```
 ## Usage
 ```sh
-from dind3 import np, pd
+from dind import np, pd
 
 print(np.array([1, 2, 3]))
 print(pd.DataFrame({"A": [1, 2, 3]}))
