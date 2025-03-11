@@ -6,7 +6,7 @@ Installing `dind3` automatically installs the other three packages
 
 ## Installation
 ```sh
-pip install dind
+pip install dind3==0.1
 ```
 ## Usage
 ```sh
