@@ -18,3 +18,7 @@ print(pd.DataFrame({"A": [1, 2, 3]}))
 ```
 
 <!-- GitAds-Verify: SKMWWX6HZRYL7RFL7ZW193FU4Q3E8SZA -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=owlpharoah/dind3@github)](https://gitads.dev/v1/ad-track?source=owlpharoah/dind3@github)
+
+
